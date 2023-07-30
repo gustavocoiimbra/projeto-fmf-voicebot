@@ -1,3 +1,9 @@
-# projeto-fmf-voicebot
-Projeto da disciplina de Pensamento Analítico de Dados ministrada por Fernando Henrique Federson. Alteração no arquivo.
-## Implementação de um chatbot que receba entrada tanto por audio ou texto e seja capaz de produzir uma resposta por voz também. ##
+# Projeto FMF ChatBot (Voicebot)
+Este é um projeto da disciplina de Pensamento Analítico de Dados ministrada por Fernando Henrique Federson.
+
+# Equipe 
+  - Enzo Rodrigues Novais Dias
+  - Gustavo Coimbra Cavalcante
+  - Maria Eduarda Silva Borba
+  - Mariana Nogueira Carvalho da Silveira
+
