@@ -7,3 +7,4 @@ Este é um projeto da disciplina de Pensamento Analítico de Dados ministrada po
   - Maria Eduarda Silva Borba
   - Mariana Nogueira Carvalho da Silveira
 
+# Descrição do projeto
