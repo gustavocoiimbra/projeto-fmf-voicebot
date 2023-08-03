@@ -14,3 +14,8 @@ O projeto de referência utilizado para desenvolvimento do original:
 
 ## Projeto ORIGINAL:
 O projeto original é uma versão do Projeto FMF com alguma originalidade. Como originalidade: a resposta do Chatbot (ou Voicebot) será por voz.
+
+### O projeto ORIGINAL foi fundamentado por meio do processo abaixo.
+![image](https://github.com/gustavocoiimbra/projeto-fmf-voicebot/assets/117763656/52a635f2-d7e6-40cd-b507-58189d979378)
+
+
