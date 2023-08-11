@@ -15,7 +15,25 @@ O projeto de referência utilizado para desenvolvimento do original:
 ## Projeto ORIGINAL:
 O projeto original é uma versão do Projeto FMF com alguma originalidade. Como originalidade: a resposta do Chatbot (ou Voicebot) será por voz.
 
-### O projeto ORIGINAL foi fundamentado por meio do processo abaixo.
-![image](https://github.com/gustavocoiimbra/projeto-fmf-voicebot/assets/117763656/52a635f2-d7e6-40cd-b507-58189d979378)
+# Ask
+  1.  Será que podemos responder as perguntas dos usuários de maneira eficiente e clara com o chatbot?
+  2. Podemos responder de maneira eficiente e clara às perguntas dos usuários?
+
+# Get the data 
+
+## Eliminando os dados??
+Inicialmente, como uma abordagem original para o nosso projeto, consideramos a viabilidade de incorporar um dos modelos de linguagem desenvolvidos pela OpenAI. Essencialmente, quando o usuário inserisse um texto, a API forneceria uma conclusão correspondente às instruções ou contexto fornecidos, eliminando assim a necessidade de utilizar os dados do projeto FMF.
+
+## Ideia 2
+Optamos por não dar continuidade à ideia inicial, percebemos que essa abordagem reduziria consideravelmente o escopo e a integridade do projeto original do FMF. Portanto, optamos por explorar outras maneiras de aprimorar a funcionalidade e eficácia do projeto, mantendo sua abrangência e propósito originais.
+
+## Ideia 3
+???
+
+# Explore the data
 
 
+# Model
+
+
+# Comunication and Vizualation
