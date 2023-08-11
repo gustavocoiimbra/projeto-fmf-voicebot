@@ -25,7 +25,7 @@ O projeto original é uma versão do Projeto FMF com alguma originalidade. Como 
 Inicialmente, como uma abordagem original para o nosso projeto, consideramos a viabilidade de incorporar um dos modelos de linguagem desenvolvidos pela OpenAI. Essencialmente, quando o usuário inserisse um texto, a API forneceria uma conclusão correspondente às instruções ou contexto fornecidos, eliminando assim a necessidade de utilizar os dados do projeto FMF.
 
 ## Ideia 2
-Optamos por não dar continuidade à ideia inicial, percebemos que essa abordagem reduziria consideravelmente o escopo e a integridade do projeto original do FMF. Portanto, optamos por explorar outras maneiras de aprimorar a funcionalidade e eficácia do projeto, mantendo sua abrangência e propósito originais.
+Optamos por não dar continuidade à ideia inicial, percebemos que essa abordagem reduziria consideravelmente o escopo e a integridade do projeto original do FMF. Além disso, utilizar os dados do projeto FMF torna capaz de estabelecer um contexto mais certeiro. Portanto, optamos por explorar outras maneiras de aprimorar a funcionalidade e eficácia do projeto, mantendo sua abrangência e propósito originais.
 
 ## Ideia 3
 ???
