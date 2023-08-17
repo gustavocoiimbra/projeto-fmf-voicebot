@@ -44,3 +44,6 @@ Foi utilizado o Whisper para transcrição de áudio. Para o treinamento do mode
 # Comunication and Vizualation
 Em ambos os modelos criados, foi utilizado a biblioteca GRADIO para verificar os resultados e ter uma interface. 
 
+
+Os resultados podem ser vistos e reproduzidos por meio dos documentos CHACAL e CHACAL_KERAS. O CHACAL é o apelido do Voicebot. O arquivo v.01 contém a versão do modelo sem o tratamento de voz, somente um Chatbot.
+
